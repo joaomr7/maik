@@ -1,0 +1,7 @@
+[project]
+name = "maik"
+version = "0.1.0"
+description = "Maik is an agent-oriented knowledge system designed to organize, process, and query large volumes of market information in an incremental, modular, and LLM-provider-independent way"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
